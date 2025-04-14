@@ -6,5 +6,6 @@ scikit-learn
 seaborn
 skl2onnx
 tensorflow==2.4.0
+tf2onnx
 pywinpty==2.0.13
 jupyter==1.0.0
